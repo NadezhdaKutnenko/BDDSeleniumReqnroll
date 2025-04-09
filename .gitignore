@@ -3,3 +3,5 @@ obj/
 .vs/
 *.user
 packages/
+# Reqnroll / SpecFlow code-behind files
+*.feature.cs
